@@ -1,2 +1,2 @@
 # LLM_agents
-This repo contains my learnings on LLM gents and their implementation
+This repo contains my learnings on LLM agents and their implementation
